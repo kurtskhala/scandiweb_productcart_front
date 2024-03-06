@@ -1,0 +1,8 @@
+.app-productlist {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin: 40px;
+    min-height: 320px;
+}

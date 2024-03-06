@@ -1,0 +1,25 @@
+.app-productadd-form-container {
+    margin: 40px;
+    min-height: 320px;
+}
+
+.app-productadd-form-container form{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.app-productadd-form-input-container label{
+    display: inline-block;
+    width: 120px;
+}
+
+.app-productadd-form-input-container input{
+    width: 250px;
+    border: 1.5px solid black;
+}
+
+.app-productadd-form-input-container select{
+    width: 250px;
+    border: 1.5px solid black;
+}
